@@ -4,7 +4,7 @@
 
 ---
 ## About Me
-- :earth_africa: I am from Tallinn, Estonia
+- :derelict_house: I am from Tallinn, Estonia
 - :woman_student: I recently graduated from the Autonomous Systems (robots + ML) master's programme at DTU
 - :robot: I am interested in data science, machine learning, software development and robotics
 - :thought_balloon: I love working on challenging interdiciplinary problems
@@ -36,4 +36,4 @@
 </div>
 
 ---
-## Check out some of the projects I've done
+## Definitely check out some of the projects I've done below<img src="https://user-images.githubusercontent.com/74420515/201189624-f9faf334-5a1b-4442-9350-450db27ba703.png" alt="drawing" width="20"/>
