@@ -55,3 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
                   
 </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinanett&layout=compact)](https://github.com/kristinanett/github-readme-stats)
