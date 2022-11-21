@@ -1,6 +1,6 @@
 <!--(### Hi there 👋) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4000&color=000000&multiline=true&width=700&height=90&lines=Hi%2C+I'm+Kristin;Welcome+to+the+home+of+my+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4000&color=3C9CF7&multiline=true&width=700&height=90&lines=Hi%2C+I'm+Kristin;Welcome+to+the+home+of+my+projects)](https://git.io/typing-svg)
 
 ---
 # About Me
