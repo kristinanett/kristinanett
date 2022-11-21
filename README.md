@@ -3,16 +3,37 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4000&color=000000&multiline=true&width=700&height=90&lines=Hi%2C+I'm+Kristin;Welcome+to+the+home+of+my+projects)](https://git.io/typing-svg)
 
 ---
-## About Me
+# About Me
 - :derelict_house: I am from Tallinn, Estonia
 - :woman_student: I recently graduated from the Autonomous Systems (robots + ML) master's programme at DTU
 - :robot: I am interested in data science, machine learning, software development and robotics
 - :thought_balloon: I love working on challenging interdiciplinary problems
 - :sheep: I'm always ready for a Minecraft LAN
-
-
+<br/><br/>
 ---
-## Languages and Tools :
+# Here's a quick overview of some cool projects I've been a part of
+
+### Thesis work
+* My master's thesis project in collaboration with Capra Robotics on the topic of using deep learning to estimate terrain properties for off-road robot navigation -> [bumpyProject](https://github.com/kristinanett/bumpyProject)
+
+### Data science
+* Exploratory analysis of an IMDb movie dataset. With a classification model to predict a movie genre and a regression model to predict movie ratings -> [MLMovieProject](https://github.com/kristinanett/MLMovieProject)
+* Real and artificial image colorization using GAN and instance-aware models -> [DeepLearningProject](https://github.com/jaschn/02456_DeepLearningProject)
+* Disaster tweet classification using the BERT natural language processing model -> [MLOPS-Project](https://github.com/nielstiben/MLOPS-Project)
+
+### Robotics
+* Detection, tracking and classification of objects moving on a conveyor belt. Using point clouds and a Kalman filter -> [PerceptionProject](https://github.com/kito323/PerceptionProject)
+* Navigating a simulated mobile robot in a room to find 5 randomly located QR codes to decode a message. Each code contains information about the next code in their own frame of reference
+* Picking up randomly placed cubes on a table and placing them in a bucket using a simulated Kinova robot arm
+* Completing an obstacle course and performing different tasks with a simulated mobile robot 
+* Solving a maze and flying through small hoops with a Crazyfly drone using a self-made controller
+
+### Programming
+* Web scraper in Java for scraping information from different cinema websites with a UI for finding a movie to watch -> [CinemaScraper](https://github.com/kristinanett/CinemaScraper)
+* Recreating the Snake game in Python with additional level content
+<br/><br/>
+---
+# Some languages and tools I've used:
 
 <div>
   
@@ -34,6 +55,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
                   
 </div>
-
----
-## Definitely check out some of the projects I've done below<img src="https://user-images.githubusercontent.com/74420515/201189624-f9faf334-5a1b-4442-9350-450db27ba703.png" alt="drawing" width="20"/>
